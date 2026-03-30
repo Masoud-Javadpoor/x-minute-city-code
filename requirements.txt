@@ -1,0 +1,8 @@
+overpy
+geopandas
+shapely
+pyogrio
+pyproj
+pandas
+numpy
+
